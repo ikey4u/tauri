@@ -1,5 +1,10 @@
 # Changelog
 
+## \[1.0.0-rc.8]
+
+- Improve readability of the `info` subcommand output.
+  - [49d2f13f](https://www.github.com/tauri-apps/tauri/commit/49d2f13fc07d763d5de9bf4b19d00c901776c11d) feat(cli): colorful cli ([#3635](https://www.github.com/tauri-apps/tauri/pull/3635)) on 2022-03-08
+
 ## \[1.0.0-rc.6]
 
 - Added `tsp` config option under `tauri > bundle > windows`, which enables Time-Stamp Protocol (RFC 3161) for the timestamping
